@@ -1,5 +1,7 @@
 # grafana-dashboards
 Collection of Grafana dashboards exported as JSON files.
+## Dashboard Preview
+(Prometheus dashboard 11 & 12.png)
 # Dashboards
 Metrics: `go_gc_duration_seconds`, `prometheus_http_requests_total`,etc.
 Data Source:Prometheus
